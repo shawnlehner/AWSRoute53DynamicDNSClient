@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "DynamicDnsRoute53": {
+      "commandName": "Project"
+    }
+  }
+}
